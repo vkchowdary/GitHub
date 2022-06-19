@@ -1,0 +1,6 @@
+docker-ce       - docker demon
+docker-ce-cli   - docker client
+containers
+image
+registry        - public regstry
+                - private regstry
